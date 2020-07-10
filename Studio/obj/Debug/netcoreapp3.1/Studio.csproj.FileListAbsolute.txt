@@ -1,0 +1,13 @@
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\bin\Debug\netcoreapp3.1\Studio.exe
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\bin\Debug\netcoreapp3.1\Studio.deps.json
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\bin\Debug\netcoreapp3.1\Studio.runtimeconfig.json
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\bin\Debug\netcoreapp3.1\Studio.runtimeconfig.dev.json
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\bin\Debug\netcoreapp3.1\Studio.dll
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\bin\Debug\netcoreapp3.1\Studio.pdb
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\obj\Debug\netcoreapp3.1\Studio.csprojAssemblyReference.cache
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\obj\Debug\netcoreapp3.1\Studio.AssemblyInfoInputs.cache
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\obj\Debug\netcoreapp3.1\Studio.AssemblyInfo.cs
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\obj\Debug\netcoreapp3.1\Studio.csproj.CoreCompileInputs.cache
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\obj\Debug\netcoreapp3.1\Studio.dll
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\obj\Debug\netcoreapp3.1\Studio.pdb
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Studio\Studio\Studio\obj\Debug\netcoreapp3.1\Studio.genruntimeconfig.cache
